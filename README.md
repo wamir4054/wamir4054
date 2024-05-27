@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wamir4054
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, C#, JS
-- 💞️ I’m looking to collaborate with DarkCoder15
+- 💞️ I want to collaborate with OfficialDakari
 
 
 <!---
