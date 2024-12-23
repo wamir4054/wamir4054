@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wamir4054
+- 👋 Hi, I’m pingwing
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, C#, JS
 - 💞️ I want to collaborate with OfficialDakari
